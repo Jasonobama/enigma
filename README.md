@@ -137,7 +137,7 @@ python nngm.py
 ## 项目结构
 
 ```
-E:\20260515\
+Enigma
 ├── nngm.py          # 主程序（包含全部加解密逻辑和 GUI）
 └── README.md        # 本文件
 ```
